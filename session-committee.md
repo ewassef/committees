@@ -3,7 +3,7 @@
 This committee will be in charge of speaker selection and communication, including talk selection and all speaker communications.
 The members of this committee are:
 
-- Eddie Wassef - Lead
+- [Eddie Wassef - Lead](https://www.github.com/ewassef)
 - Angel Ramirez
 - Moez Mustafa
 - Daniel Oh
