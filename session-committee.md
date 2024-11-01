@@ -1,6 +1,19 @@
 # Session
 
-This committee will be in charge of speaker selection and communication. This includes talk selection, and all speaker communications.
+This committee will be in charge of speaker selection and communication, including talk selection and all speaker communications.
+The members of this committee are:
+
+- Eddie Wassef - Lead
+- Angel Ramirez
+- Moez Mustafa
+- Daniel Oh
+- Jamie Parker
+- Rafael Brito
+- Chad Crowell
+- Damian Igbe
+- Manish Tyagi
+- Cristher Castro
+
 
 ## Role Description
 
